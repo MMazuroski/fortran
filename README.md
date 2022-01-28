@@ -1,5 +1,5 @@
 # fortran
- Projetos de CFD em Fortran
+ Projetos de fluidodinâmica computacional em Fortran
  
  - Solução trocador de calor por FVM e TDMA 2D
   Programa para solução de um trocador de calor de seção quadrada através do método dos volumes finitos e TDMA 2D.
