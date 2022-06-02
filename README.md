@@ -1,7 +1,7 @@
 # fortran
  ## Projetos de fluidodinâmica computacional em Fortran
  
- Programas para solução de problemas de transferência de calor. Todos são resolvidos utilizando o método dos volumes finitos (FVM).
+ Programas para solução de problemas de transferência de calor, realizados durante o mestrado em Engª. Mecânica e e Materiais. Todos são resolvidos utilizando o método dos volumes finitos (FVM).
  
  ### 1) Solução trocador de calor com TDMA 2D
  Programa para solução de um trocador de calor de seção quadrada através do método dos volumes finitos e TDMA 2D. 
